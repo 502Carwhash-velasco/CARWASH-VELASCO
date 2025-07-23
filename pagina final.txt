@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Carwash El Brillito</title>
+  <title>CARWASH-VELASCO</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -63,7 +63,7 @@
 <body>
 
   <header>
-    <h1>Carwash El Brillito</h1>
+    <h1>CARWASH-VELASCO</h1>
     <p>¡Tu carro como nuevo, todos los días!</p>
   </header>
 
